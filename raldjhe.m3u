@@ -1,7 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://assets.rappler.com/3E8CFD536445453C9575551922F68F49/img/2E6A2E728F1C458D96BFE09C03A8FCC4/Kapamilya_Channel_logo_2E6A2E728F1C458D96BFE09C03A8FCC4.jpg",Kapamilya Channel
-#EXTVLCOPT:http-referrer=https://tfc.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-#EXTIMG:https://assets.rappler.com/3E8CFD536445453C9575551922F68F49/img/2E6A2E728F1C458D96BFE09C03A8FCC4/Kapamilya_Channel_logo_2E6A2E728F1C458D96BFE09C03A8FCC4.jpg
 https://amdottlive.akamaized.net/hls/live/2014575/iwantabscbn/master480p.m3u8
