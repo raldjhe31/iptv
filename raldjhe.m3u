@@ -8,3 +8,6 @@ http://103.11.112.84:1935/live2/smil:tv5.smil/chunklist_w1626040967_b628000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bworldonline.com/wp-content/uploads/2018/12/TV5-Logo.jpg",TV5
 http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+
+#EXTINF:-1,NBA TV HD 1080P
+http://51.222.82.89:22829/1212/1212/323313
