@@ -15,5 +15,5 @@ http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 http://51.222.82.89:22829/1212/1212/323313
 
 
-#EXTINF:-1,Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/nrYLBkN.png" group-title="USA",ESPN 2
+https://gma2.blab.email/espn2.m3u8
