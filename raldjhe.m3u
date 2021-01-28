@@ -20,3 +20,6 @@ https://gma2.blab.email/espn2.m3u8
 
 #EXTINF:-1,STARZ HD
 http://51.222.82.89:22829/1212/1212/323277
+
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="Undefined",Arirang HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.com
