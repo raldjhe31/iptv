@@ -6,7 +6,7 @@ http://127.0.0.1/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tl/archive/f/f1/20090828001156%21Gma_network_logo.png",GMA
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/5.m3u8
 
-#EXTINF:-1 tvg-logo="",GMA NEWS TV
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fgmanews&psig=AOvVaw1bfWpYqblIWwFypqqRDP2J&ust=1612429980398000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCvtfWvze4CFQAAAAAdAAAAABAU",GMA NEWS TV
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/7.m3u8
 
 #EXTINF:-1 tvg-logo="",TV5
@@ -18,6 +18,9 @@ http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/10.m3u8
 #EXTINF:-1 tvg-logo="",KAPAMILYA
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/11.m3u8
 
+#EXTINF:-1 tvg-logo="",CINEMO
+http://104.248.199.67:7879/ph2020/cinemo/chunks.m3u8?nimblesessionid=957325&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjEgOToxOTowOSBBTSZoYXNoX3ZhbHVlPTZwdTZ6ZGgyQ1Q3dE1OdVVRSlI2REE9PSZ2YWxpZG1pbnV0ZXM9MTI=
+
 #EXTINF:-1 tvg-logo="",PBO
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/12.m3u8
 
@@ -26,6 +29,9 @@ http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/13.m3u8
 
 #EXTINF:-1 tvg-logo="",CINEMA ONE
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/14.m3u8
+
+#EXTINF:-1 tvg-logo="",CELESTIAL MOVIES PINOY
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/87.m3u8
 
 #EXTINF:-1 tvg-logo="",HBO HD
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/15.m3u8
@@ -46,63 +52,60 @@ http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/19.m3u8
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/20.m3u8
 
 #EXTINF:-1 tvg-logo="",WARNER TV
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/20.m3u8
-
-#EXTINF:-1 tvg-logo="",HITS MOVIES HD
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/21.m3u8
 
-#EXTINF:-1 tvg-logo="",DREAMWORKS
+#EXTINF:-1 tvg-logo="",HITS MOVIES
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/22.m3u8
 
-#EXTINF:-1 tvg-logo="",ANIMAX
+#EXTINF:-1 tvg-logo="",DREAMWORKS
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/23.m3u8
 
-#EXTINF:-1 tvg-logo="",DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="",ANIMAX
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/24.m3u8
 
-#EXTINF:-1 tvg-logo="",DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="",DISNEY CHANNEL
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/25.m3u8
 
-#EXTINF:-1 tvg-logo="",NICK JR.
+#EXTINF:-1 tvg-logo="",DISNEY JR.
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/26.m3u8
 
-#EXTINF:-1 tvg-logo="",NICKELODEON HD
+#EXTINF:-1 tvg-logo="",NICK JR.
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/27.m3u8
 
-#EXTINF:-1 tvg-logo="",CARTOON NETWORK HD
+#EXTINF:-1 tvg-logo="",NICK
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/28.m3u8
 
-#EXTINF:-1 tvg-logo="",BOOMERANG
+#EXTINF:-1 tvg-logo="",CARTOON NETWORK
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/29.m3u8
 
-#EXTINF:-1 tvg-logo="",FOX SPORTS 2 HD 
+#EXTINF:-1 tvg-logo="",BOOMERANG
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/30.m3u8
 
-#EXTINF:-1 tvg-logo="",ESPN PACIFIC RIM HD
+#EXTINF:-1 tvg-logo="",FOX SPORTS 2
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/31.m3u8
 
-#EXTINF:-1 tvg-logo="",BBC EARTH HD
+#EXTINF:-1 tvg-logo="",ESPN
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/32.m3u8
 
-#EXTINF:-1 tvg-logo="",SOLAR SPORTS
+#EXTINF:-1 tvg-logo="",BBC EARTH
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/33.m3u8
 
-#EXTINF:-1 tvg-logo="",CRIME INVESTIGATION
+#EXTINF:-1 tvg-logo="",SOLAR SPORT
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/34.m3u8
 
-#EXTINF:-1 tvg-logo="",FOX SPORTS 1 HD
+#EXTINF:-1 tvg-logo="",CRIME INVESTIGATION
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/35.m3u8
 
-#EXTINF:-1 tvg-logo="",ANC
+#EXTINF:-1 tvg-logo="",FOX SPORTS
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/36.m3u8
 
-#EXTINF:-1 tvg-logo="",CNN HD
+#EXTINF:-1 tvg-logo="",ANC
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/37.m3u8
 
-#EXTINF:-1 tvg-logo="",FOX NEWS HD
+#EXTINF:-1 tvg-logo="",CNN HD
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/38.m3u8
 
-#EXTINF:-1 tvg-logo="",BBC WORLD NEWS
+#EXTINF:-1 tvg-logo="",FOX NEWS
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/39.m3u8
 
 #EXTINF:-1 tvg-logo="",DISCOVERY HD
@@ -180,9 +183,6 @@ http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/75.m3u8
 #EXTINF:-1 tvg-logo="",JEEPNEY TV
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/76.m3u8
 
-#EXTINF:-1 tvg-logo="",VIDEOKE
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/77.m3u8
-
 #EXTINF:-1 tvg-logo="",TECHSTORM
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/78.m3u8
 
@@ -207,6 +207,5 @@ http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/85.m3u8
 #EXTINF:-1 tvg-logo="",BABY TV HD
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/86.m3u8
 
-#EXTINF:-1 tvg-logo="",CELESTIAL MOVIES PINOY
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/87.m3u8
+
 
