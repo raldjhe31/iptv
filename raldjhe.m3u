@@ -82,6 +82,9 @@ http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/29.m3u8
 #EXTINF:-1 tvg-logo="",BOOMERANG
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/30.m3u8
 
+#EXTINF:-1 tvg-logo="",NBA TV
+http://64.227.117.226:3355/sports2021/nbatv/chunks.m3u8?nimblesessionid=1171852&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjEgMjowMjozOCBQTSZoYXNoX3ZhbHVlPTJWbkZicG9xOWJCRjdxeTM5YTFhaHc9PSZ2YWxpZG1pbnV0ZXM9MTI=
+
 #EXTINF:-1 tvg-logo="",FOX SPORTS 2
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/31.m3u8
 
