@@ -6,7 +6,7 @@ http://127.0.0.1/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tl/archive/f/f1/20090828001156%21Gma_network_logo.png",GMA
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/5.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fgmanews&psig=AOvVaw1bfWpYqblIWwFypqqRDP2J&ust=1612429980398000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCvtfWvze4CFQAAAAAdAAAAABAU",GMA NEWS TV
+#EXTINF:-1 tvg-logo="http://images.gmanews.tv/webpics/2020/03/640_GMA_NEWS_TV_2020_03_20_15_40_14.jpg",GMA NEWS TV
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/7.m3u8
 
 #EXTINF:-1 tvg-logo="",TV5
@@ -19,7 +19,8 @@ http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/10.m3u8
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/11.m3u8
 
 #EXTINF:-1 tvg-logo="",CINEMO
-http://104.248.199.67:7879/ph2020/cinemo/chunks.m3u8?nimblesessionid=957325&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjEgOToxOTowOSBBTSZoYXNoX3ZhbHVlPTZwdTZ6ZGgyQ1Q3dE1OdVVRSlI2REE9PSZ2YWxpZG1pbnV0ZXM9MTI=
+http://64.227.117.226:3355/ph2020/cinemo/chunks.m3u8?nimblesessionid=1155481&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjEgMTI6MTM6MzIgUE0maGFzaF92YWx1ZT13NjM2L2hEdFMvb1RmNE53MEdRL3lnPT0mdmFsaWRtaW51dGVzPTEy
+
 
 #EXTINF:-1 tvg-logo="",PBO
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/12.m3u8
