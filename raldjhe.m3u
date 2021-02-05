@@ -1,34 +1,175 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="", One Sports
-http://stream2.tv5.com.ph:1935/live3/smil:onesports.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", TV5
-http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", ESPN
-https://gma2.blab.email/espn2.m3u8
-
-#EXTINF:-1 tvg-logo="", Bloomberg Asia
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="", Arirang HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="", CBS
-http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="", MTN
-http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="", SBS INTERNATIONAL
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="", SBS PLUS
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="", NHK WORLD JAPAN
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="",GMA Life Pinoy
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/1288.m3u8?checkedby:iptvcat.com
+##EXTINF:-1,ABC NEWS HD
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208843.ts
+#EXTINF:-1,ADULT SWIM EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208842.ts
+#EXTINF:-1,BEK SPORTS
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208840.ts
+#EXTINF:-1,BET
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/32485.ts
+#EXTINF:-1,BET EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208837.ts
+#EXTINF:-1,BET Her
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/32486.ts
+#EXTINF:-1,BET Jams
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/32487.ts
+#EXTINF:-1,BET Soul
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/32488.ts
+#EXTINF:-1,BET WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208838.ts
+#EXTINF:-1,BRAVO East
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208835.ts
+#EXTINF:-1,BRAVO West
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208836.ts
+#EXTINF:-1,CARTOON NETWORK EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208833.ts
+#EXTINF:-1,CARTOON NETWORK WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208834.ts
+#EXTINF:-1,CINEMAX EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208832.ts
+#EXTINF:-1,DISCOVERY CHANNEL EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208831.ts
+#EXTINF:-1,DISCOVERY EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208829.ts
+#EXTINF:-1,DISCOVERY WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208830.ts
+#EXTINF:-1,DISNEY CHANNEL EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208826.ts
+#EXTINF:-1,DISNEY JR EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208827.ts
+#EXTINF:-1,DISNEY XD EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208828.ts
+#EXTINF:-1,DIY Network
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/32484.ts
+#EXTINF:-1,E! Entertainment Television EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208825.ts
+#EXTINF:-1,FOOD NETWORK EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208823.ts
+#EXTINF:-1,FOOD NETWORK WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208824.ts
+#EXTINF:-1,FoxNET EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208822.ts
+#EXTINF:-1,FREEFORM WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208821.ts
+#EXTINF:-1,FX EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208820.ts
+#EXTINF:-1,GOLF CHANNEL
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208819.ts
+#EXTINF:-1,HBO 2
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208906.ts
+#EXTINF:-1,HBO COMEDY
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208908.ts
+#EXTINF:-1,HBO EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208903.ts
+#EXTINF:-1,HBO Family
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208900.ts
+#EXTINF:-1,HBO WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208904.ts
+#EXTINF:-1,HGTV EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208896.ts
+#EXTINF:-1,HGTV WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208897.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208895.ts
+#EXTINF:-1,MTV 2 WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208894.ts
+#EXTINF:-1,NAT GEO WILD EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208891.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208892.ts
+#EXTINF:-1,NICK JR
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208890.ts
+#EXTINF:-1,NICKELODEON EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208887.ts
+#EXTINF:-1,NICKELODEON WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208888.ts
+#EXTINF:-1,OXYGEN EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208885.ts
+#EXTINF:-1,OXYGEN WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208886.ts
+#EXTINF:-1,PEOPLE TV
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208817.ts
+#EXTINF:-1,POP EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208818.ts
+#EXTINF:-1,Revolt
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/32489.ts
+#EXTINF:-1,SHOWTIME WOMEN
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208875.ts
+#EXTINF:-1,SMITHSONIAN EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208874.ts
+#EXTINF:-1,STARZ CINEMA EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208860.ts
+#EXTINF:-1,STARZ CINEMA WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208861.ts
+#EXTINF:-1,STARZ EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208858.ts
+#EXTINF:-1,STARZ EDGE
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208864.ts
+#EXTINF:-1,STARZ ENCORE BLACK
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208866.ts
+#EXTINF:-1,STARZ ENCORE CLASSIC
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208867.ts
+#EXTINF:-1,STARZ ENCORE FAMILY
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208869.ts
+#EXTINF:-1,STARZ ENCORE SUSPENSE
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208870.ts
+#EXTINF:-1,STARZ ENCORE
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208865.ts
+#EXTINF:-1,STARZ IN BLACK
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208871.ts
+#EXTINF:-1,STARZ WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208859.ts
+#EXTINF:-1,SYFY WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208857.ts
+#EXTINF:-1,TBS EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208854.ts
+#EXTINF:-1,TCM EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208856.ts
+#EXTINF:-1,TLC WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208853.ts
+#EXTINF:-1,TNT WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208852.ts
+#EXTINF:-1,TRU TV EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208849.ts
+#EXTINF:-1,TRU TV WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208850.ts
+#EXTINF:-1,UNIVERSAL KIDS EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208848.ts
+#EXTINF:-1,USA NETWORK EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208844.ts
+#EXTINF:-1,USA NETWORK WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208845.ts
+#EXTINF:-1,VH1 EAST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208846.ts
+#EXTINF:-1,VH1 WEST
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208847.ts
+#EXTINF:-1,beIN Sports 09
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/32590.ts
+#EXTINF:-1,TUDN MX
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/32932.ts
+#EXTINF:-1,ION TV
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/213369.ts
+#EXTINF:-1,TBS FHD
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/233185.ts
+#EXTINF:-1,MLB NETWORK
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/242559.ts
+#EXTINF:-1,E! ENTERTAINMENT TELEVISION (WEST)
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/243147.ts
+#EXTINF:-1,Willow Cricket
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/34599.ts
+#EXTINF:-1,US| Longhorn Network LHD
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/153749.ts
+#EXTINF:-1,US| MAV TV
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/153750.ts
+#EXTINF:-1,US| Me TV
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/153751.ts
+#EXTINF:-1,US| MotorTrend UHD
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/153757.ts
+#EXTINF:-1,CW 11 (New York)
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/285411.ts
+#EXTINF:-1,WPIX 11 NY HD
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/297686.ts
+#EXTINF:-1,Newsmax
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/297762.ts
+#EXTINF:-1,NBCSN HD
+http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/298218.ts
