@@ -8,3 +8,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/a372ed6cf65b6f5.t
 
 #EXTINF:-1,NBA TV TR
 http://mytv.fun:8080/Oskartest/t4h92jfvp/626988 |User-Agent=1m3u8
+
+#EXTINF:-1,NBA TV HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684729 |User-Agent=1m3u8
+
+#EXTINF:-1,NBA TV HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6355 |User-Agent=1m3u8
