@@ -5,16 +5,14 @@ http://127.0.0.1/
 
 #EXTINF:-1,CINEMAX
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/a372ed6cf65b6f5.ts|User-Agent=1m3u8
-
+#EXTINF:-1,MOVIES NOW
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cd8e768b1b89661.ts|User-Agent=1m3u8
 #EXTINF:-1,NBA TV TR
 http://mytv.fun:8080/Oskartest/t4h92jfvp/626988 |User-Agent=1m3u8
-
 #EXTINF:-1,NBA TV HD VIP US
 http://mytv.fun:8080/Oskartest/t4h92jfvp/684729 |User-Agent=1m3u8
-
 #EXTINF:-1,NBA TV HD US
 http://mytv.fun:8080/Oskartest/t4h92jfvp/6355 |User-Agent=1m3u8
-
 #EXTINF:-1,NBA LP1 [Match Time] HD US
 http://mytv.fun:8080/Oskartest/t4h92jfvp/681995 |User-Agent=1m3u8
 #EXTINF:-1,NBA LP2 [Match Time] HD US
