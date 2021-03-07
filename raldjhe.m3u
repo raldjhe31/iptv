@@ -2,43 +2,31 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz3RX81.jpg",Brought to you by ZALTIQUE 7.
 http://127.0.0.1/
-#EXTINF:-1,FILM 4
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/ec567c068e1dd78.ts|User-Agent=1m3u8
-#EXTINF:-1,CINEMAX
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/a372ed6cf65b6f5.ts|User-Agent=1m3u8
-#EXTINF:-1,MOVIES NOW
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cd8e768b1b89661.ts|User-Agent=1m3u8
-#EXTINF:-1,NBA TV TR
-http://mytv.fun:8080/Oskartest/t4h92jfvp/626988 |User-Agent=1m3u8
-#EXTINF:-1,NBA TV HD VIP US
-http://mytv.fun:8080/Oskartest/t4h92jfvp/684729 |User-Agent=1m3u8
-#EXTINF:-1,NBA TV HD US
-http://mytv.fun:8080/Oskartest/t4h92jfvp/6355 |User-Agent=1m3u8
-#EXTINF:-1,NBA LP1 [Match Time] HD US
-http://mytv.fun:8080/Oskartest/t4h92jfvp/681995 |User-Agent=1m3u8
-#EXTINF:-1,NBA LP2 [Match Time] HD US
-http://mytv.fun:8080/Oskartest/t4h92jfvp/681996 |User-Agent=1m3u8
-#EXTINF:-1,NBA LP3 [Match Time] HD US
-http://mytv.fun:8080/Oskartest/t4h92jfvp/681997 |User-Agent=1m3u8
-#EXTINF:-1,NBA LP4 [Match Time] HD US
-http://mytv.fun:8080/Oskartest/t4h92jfvp/682012 |User-Agent=1m3u8
-#EXTINF:-1,NBA LP5 [Match Time] HD US
-http://mytv.fun:8080/Oskartest/t4h92jfvp/682013 |User-Agent=1m3u8
-#EXTINF:-1,NBA LP6 [Match Time] HD US
-http://mytv.fun:8080/Oskartest/t4h92jfvp/682000 |User-Agent=1m3u8
-#EXTINF:-1,NBA LP7 [Match Time] HD US
-http://mytv.fun:8080/Oskartest/t4h92jfvp/682001 |User-Agent=1m3u8
-#EXTINF:-1,NBA LP8 [Match Time] HD US
-http://mytv.fun:8080/Oskartest/t4h92jfvp/682002 |User-Agent=1m3u8
-#EXTINF:-1,NBA LP9 [Match Time] HD US
-http://mytv.fun:8080/Oskartest/t4h92jfvp/682003 |User-Agent=1m3u8
-#EXTINF:-1,NBA LP10 [Match Time] HD US
-http://mytv.fun:8080/Oskartest/t4h92jfvp/682004 |User-Agent=1m3u8
-#EXTINF:-1,NBA LP11 [Match Time] HD US
-http://mytv.fun:8080/Oskartest/t4h92jfvp/682005 |User-Agent=1m3u8
-#EXTINF:-1,NBA LP12 [Match Time] HD US
-http://mytv.fun:8080/Oskartest/t4h92jfvp/682006 |User-Agent=1m3u8
-#EXTINF:-1,NBA LP13 [Match Time] HD US
-http://mytv.fun:8080/Oskartest/t4h92jfvp/682007 |User-Agent=1m3u8
-#EXTINF:-1,NBA LP14 [Match Time] HD US
-http://mytv.fun:8080/Oskartest/t4h92jfvp/682008 |User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="", GMA: 
+http://37.48.104.71:8080/live/test/playlist.m3u8
+#EXTINF:-1 tvg-logo="", GTV: 
+http://37.48.104.71:8080/live/testing/playlist.m3u8
+#EXTINF:-1 tvg-logo="", GMA Pinoy TV: 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8 
+#EXTINF:-1 tvg-logo="", GMA Life TV: 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
+#EXTINF:-1 tvg-logo="", TV5: 
+http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="", One Sports:  
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="", PTV:  
+https://stream-04.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwDkxITXLEn5QzwcwkulG3Gs)/dm/3/x5cr6b9/d/live-2.m3u8
+#EXTINF:-1 tvg-logo="", Bloomberg Asia:  
+https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="", UNTV:  
+https://www.untvweb.com/live-stream/chunklist_b2592000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="",SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1VGr5S.jpg" group-title="",Pilipinas HD
+http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
+#EXTINF:-1 tvg-logo="", NETS25:
+https://ebc.sytes.net/hls/net25.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PwUFKik.jpg" group-title="",Beam TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="News",CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/chunklist_w912711867.m3u8
