@@ -1,32 +1,142 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz3RX81.jpg",Brought to you by ZALTIQUE 7.
-http://127.0.0.1/
-#EXTINF:-1 tvg-logo="", GMA: 
+#EXTINF:-1 tvg-logo="", GMA
 http://37.48.104.71:8080/live/test/playlist.m3u8
-#EXTINF:-1 tvg-logo="", GTV: 
+
+#EXTINF:-1 tvg-logo="", GTV 
 http://37.48.104.71:8080/live/testing/playlist.m3u8
-#EXTINF:-1 tvg-logo="", GMA Pinoy TV: 
+
+#EXTINF:-1 tvg-logo="", GMA Pinoy TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8 
-#EXTINF:-1 tvg-logo="", GMA Life TV: 
+
+#EXTINF:-1 tvg-logo="", GMA Life TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
-#EXTINF:-1 tvg-logo="", TV5: 
+
+#EXTINF:-1 tvg-logo="", TV5
 http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="", One Sports:  
+
+#EXTINF:-1 tvg-logo="", One Sports 
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="", PTV:  
+
+#EXTINF:-1 tvg-logo="", PTV
 https://stream-04.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwDkxITXLEn5QzwcwkulG3Gs)/dm/3/x5cr6b9/d/live-2.m3u8
-#EXTINF:-1 tvg-logo="", Bloomberg Asia:  
+
+#EXTINF:-1 tvg-logo="", Bloomberg Asia
 https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-logo="", UNTV:  
+
+#EXTINF:-1 tvg-logo="", UNTV
 https://www.untvweb.com/live-stream/chunklist_b2592000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="",SMNI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l2JSQme.png", SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1VGr5S.jpg" group-title="",Pilipinas HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1VGr5S.jpg", Pilipinas HD
 http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="", NETS25:
 https://ebc.sytes.net/hls/net25.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PwUFKik.jpg" group-title="",Beam TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PwUFKik.jpg" ,Beam TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="News",CNN Philippines
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AyqNnHj.png" ,CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w912711867.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,NBA TV HD
+https://nonton.site:8443/novi/novi123/3099
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,NBA TV HD US
+https://nonton.site:8443/novi/novi123/243
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/ESPN2.nz.png" ,ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Badminton 1
+https://nonton.site:8443/novi/novi123/36240
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Badminton 2
+https://nonton.site:8443/novi/novi123/36241
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,BeIN Sport 1 ID
+https://nonton.site:8443/novi/novi123/728
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,BeIN Sport 2 ID
+https://nonton.site:8443/novi/novi123/729
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Box Nation
+https://nonton.site:8443/novi/novi123/499
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,FIGHT BOX
+https://nonton.site:8443/novi/novi123/501
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Fight Sports
+https://nonton.site:8443/novi/novi123/784
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Fox Sports 1 HD
+https://nonton.site:8443/novi/novi123/51
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Fox Sports 2 HD
+https://nonton.site:8443/novi/novi123/102
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Fox Sports 3 HD
+https://nonton.site:8443/novi/novi123/101
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Golf Channel FHD
+https://nonton.site:8443/novi/novi123/561
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Tennis Channel
+https://nonton.site:8443/novi/novi123/482
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Tennis Channel 2
+https://nonton.site:8443/novi/novi123/19168
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,WWE Network
+https://nonton.site:8443/novi/novi123/299
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,ANIPLUS HD
+https://nonton.site:8443/novi/novi123/37439
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Aniplus
+https://nonton.site:8443/novi/novi123/2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Animax
+https://nonton.site:8443/novi/novi123/3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Baby First
+https://nonton.site:8443/novi/novi123/1204
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Baby TV
+https://nonton.site:8443/novi/novi123/296
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Boomerang ID
+https://nonton.site:8443/novi/novi123/305
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Cartoon Network ID HD
+https://nonton.site:8443/novi/novi123/680
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,CBeebies
+https://nonton.site:8443/novi/novi123/491
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Disney Channel
+https://nonton.site:8443/novi/novi123/306
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Disney Channel ID
+https://nonton.site:8443/novi/novi123/3479
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Disney Junior
+https://nonton.site:8443/novi/novi123/213
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Disney UK
+https://nonton.site:8443/novi/novi123/2336
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Disney XD
+https://nonton.site:8443/novi/novi123/104
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Dream Works HD
+https://nonton.site:8443/novi/novi123/32529
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Duck TV
+https://nonton.site:8443/novi/novi123/1854
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Dunia Anak
+https://nonton.site:8443/novi/novi123/907
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Horee
+https://nonton.site:8443/novi/novi123/14106
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,My Kidz
+https://nonton.site:8443/novi/novi123/1483
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Nick Jr 2
+https://nonton.site:8443/novi/novi123/341
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Nick Jr ID
+https://nonton.site:8443/novi/novi123/522
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Nick Toons
+https://nonton.site:8443/novi/novi123/335
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Nickelodeon ID
+https://nonton.site:8443/novi/novi123/962
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Toonmax
+https://nonton.site:8443/novi/novi123/1116
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,XingXong
+https://nonton.site:8443/novi/novi123/36764
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" ,Zoo Moo HD
+https://nonton.site:8443/novi/novi123/1410
+
+
+
+
+
+
+
+
+
+
+
+
