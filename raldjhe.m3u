@@ -1,7 +1,3 @@
-#EXTINF:-1 tvg-logo="", GMA
-http://37.48.104.71:8080/live/test/playlist.m3u8
-#EXTINF:-1 tvg-logo="", GTV 
-http://37.48.104.71:8080/live/testing/playlist.m3u8
 #EXTINF:-1 tvg-logo="", GMA Pinoy TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8 
 #EXTINF:-1 tvg-logo="", GMA Life TV
@@ -26,21 +22,7 @@ https://ebc.sytes.net/hls/net25.m3u8
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AyqNnHj.png" ,CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w912711867.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MOVIES",FOX FAMILY HD _VN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MOVIES",FOX HD _VN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MOVIES",FOX MOVIES HD _VN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MOVIES",FOX LIFE HD _VN
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="" ,The Outdoor Cooking Channel
+https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8?fluxustv.m3u8
+#EXTINF:-1   tvg-logo="" group-title="ShareExt@TvMyanmar",Aljazerah
+http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8
